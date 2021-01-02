@@ -8,7 +8,8 @@ import java.util.Scanner;
        char choice, ch;
        Scanner scan = new Scanner(System.in);
 	      
-      	do
+    //fdgd
+    do
          {
            System.out.print("1. Addition\n");
            System.out.print("2. Subtraction\n");
